@@ -9,7 +9,7 @@ class customListItem extends StatelessWidget{
         children: <Widget>[
           Expanded(
             flex: 2,
-            child: ,
+            child: null,
           )
         ],
       ),
