@@ -1,4 +1,4 @@
-#Mon May 20 07:49:12 CST 2019
-base.0=E\:\\my_project\\hello_world\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu May 23 21:38:11 CST 2019
+base.0=D\:\\FlutterApp\\flutterProject\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
