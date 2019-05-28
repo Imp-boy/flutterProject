@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'list.dart';
+import 'customListItem.dart';
 void main() => runApp(new MyApp());
 //无状态组件
 class MyApp extends StatelessWidget {
@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
         title: 'Startup Name Generator',
-        home: new RandomWords(),
+        home: new CustomListItem(),
         theme: new ThemeData(
             primaryColor: Colors.blue, primarySwatch: Colors.blue));
   }
